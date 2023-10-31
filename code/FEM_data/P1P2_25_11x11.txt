@@ -1,11 +1,3 @@
-% Model:              SL_2D.mph
-% Version:            COMSOL 6.1.0.252
-% Date:               Sep 4 2023, 14:55
-% Dimension:          2
-% Nodes:              121
-% Expressions:        2
-% Description:        Dependent variable P1, Dependent variable P2
-% Length unit:        m
 % X                       Y                        P1 (1) @ t=25            P2 (1) @ t=25
 -2                        -2                       -0.3346823865554596      0.33468238655842303
 -1.6                      -2                       -0.46555198176594986     0.28080241059239014
